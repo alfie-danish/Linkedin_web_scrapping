@@ -1,2 +1,2 @@
-# Linkedin_web_scrapping
+# Linkedin Web Scrapping
 Code for TechLabs Hackathon
